@@ -1,0 +1,36 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.subline-*",
+		".DS_Store",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif"
+	],
+	"folder_exclude_patterns":
+	[
+		"images",
+		".sass-cache",
+		"fonts"
+	],
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"tabs_large": true,
+	"theme": "predawn.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
